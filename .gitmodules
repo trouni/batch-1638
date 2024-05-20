@@ -1,0 +1,12 @@
+[submodule "lectures/rails-authentication"]
+	path = lectures/rails-authentication
+	url = git@github.com:trouni/rails-authentication-1638
+[submodule "lectures/rails-geocoding"]
+	path = lectures/rails-geocoding
+	url = git@github.com:trouni/rails-geocoding-1638
+[submodule "lectures/rails-search"]
+	path = lectures/rails-search
+	url = git@github.com:trouni/rails-search-1638
+[submodule "lectures/rails-slack-chat"]
+	path = lectures/rails-slack-chat
+	url = git@github.com:trouni/rails-slack-chat-1638
