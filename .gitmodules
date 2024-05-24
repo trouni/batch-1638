@@ -10,3 +10,6 @@
 [submodule "lectures/rails-slack-chat"]
 	path = lectures/rails-slack-chat
 	url = git@github.com:trouni/rails-slack-chat-1638
+[submodule "lectures/rails-openai"]
+	path = lectures/rails-openai
+	url = git@github.com:trouni/rails-openai-1638
